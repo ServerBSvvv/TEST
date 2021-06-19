@@ -14,3 +14,4 @@ The server is in a very early state. Right now, it is NOT recommended to run thi
 
 #### My friends Discord servers: [Huza's Discord channel](https://discord.gg/VPWMxWm) and [Antz's Discord channel](https://discord.com/invite/RgYcF3b)
 # TEST
+еп вы все говно!
